@@ -5,7 +5,7 @@ balls = [
     "8ball",
     "football",
     "baseball",
-    "riceball",
+    "rice_ball",
     "trackball",
     "basketball",
     "volleyball",
